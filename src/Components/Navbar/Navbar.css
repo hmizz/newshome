@@ -1,0 +1,17 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0rem;
+  align-items: center;
+  color: var(--Dark-grayish-blue);
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
